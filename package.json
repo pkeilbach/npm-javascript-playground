@@ -1,5 +1,5 @@
 {
-  "name": "@pkeilbach/test-package",
+  "name": "@pkeilbach/npm-javascript-playground",
   "version": "1.2.4",
   "main": "index.js",
   "scripts": {
