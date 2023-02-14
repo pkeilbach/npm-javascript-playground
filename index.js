@@ -1,5 +1,5 @@
 exports.printMsg = function() {
-  console.log("This is a message from the demo package version check");
+  console.log("This is a message from the demo package");
 }
 
-console.log("hello world v1.1.4")
+console.log("hello world!")
